@@ -8,4 +8,4 @@ Online Grocery Store is an eCommerce based web application which We have develop
 -> VS Code
 -> Angular
 -> NodeJS
--> MongoDB or MySQL
+-> MongoDB
